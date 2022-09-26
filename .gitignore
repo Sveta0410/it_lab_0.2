@@ -1,0 +1,4 @@
+.idea
+*.py
+test[0-9].txt
+?at.txt
